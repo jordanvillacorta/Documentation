@@ -9,3 +9,6 @@ Working through Underbar Part 1, using underscore.js documentation for all tests
 
 Now working through Underbar Part 2, using underscore.js documentation for all tests.
 -- http://underscorejs.org/
+
+Learned about Boolean() object, which is an object wrapper for a boolean value.
+-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
