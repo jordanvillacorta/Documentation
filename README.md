@@ -12,3 +12,6 @@ Now working through Underbar Part 2, using underscore.js documentation for all t
 
 Learned about Boolean() object, which is an object wrapper for a boolean value.
 -- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
+
+Learned about converting arguments to an array for easier functionality purposes.
+-- https://stackoverflow.com/questions/960866/how-can-i-convert-the-arguments-object-to-an-array-in-javascript#:~:text=Use%20Array.,(function()%20%7B%20console.
