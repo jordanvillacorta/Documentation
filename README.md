@@ -18,3 +18,6 @@ Learned about converting arguments to an array for easier functionality purposes
 
 Learning about Closure Scopes and how they are used in High-Order-Functions.
 -- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
+Learning about HTML and CSS for Module 2 and how they are used in Front End Web Development.
+-- https://learn.shayhowe.com/html-css/getting-to-know-html/
