@@ -21,3 +21,6 @@ Learning about Closure Scopes and how they are used in High-Order-Functions.
 
 Learning about HTML and CSS for Module 2 and how they are used in Front End Web Development.
 -- https://learn.shayhowe.com/html-css/getting-to-know-html/
+
+Learning about CSS Color within Module 2.
+-- https://www.w3.org/TR/css-color-3/#html4
