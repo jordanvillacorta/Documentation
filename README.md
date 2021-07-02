@@ -24,3 +24,6 @@ Learning about HTML and CSS for Module 2 and how they are used in Front End Web 
 
 Learning about CSS Color within Module 2.
 -- https://www.w3.org/TR/css-color-3/#html4
+
+Great learning resource for Intermediate CSS on Codecademy.
+-- https://www.codecademy.com/learn/learn-css
