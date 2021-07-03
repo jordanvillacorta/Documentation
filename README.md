@@ -27,3 +27,6 @@ Learning about CSS Color within Module 2.
 
 Great learning resource for Intermediate CSS on Codecademy.
 -- https://www.codecademy.com/learn/learn-css
+
+Learning about jQuery and using resource from freeCodeCamp.
+-- https://www.freecodecamp.org/learn/front-end-libraries#jquery
