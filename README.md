@@ -30,3 +30,6 @@ Great learning resource for Intermediate CSS on Codecademy.
 
 Learning about jQuery and using resource from freeCodeCamp.
 -- https://www.freecodecamp.org/learn/front-end-libraries#jquery
+
+Continually needing to research and access jQuery functions and methods, using this resource from jQuery.
+-- https://api.jquery.com/
