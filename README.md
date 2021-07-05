@@ -1,4 +1,4 @@
-This repo is for all the documentation that I'm learning and (eventually) implementing in my code. These functions, methods, etc., are newer and more complex for me. Recently added the String.prototype.repeat() method and implemented it onto the Testbuilder course in Pre-Course. 
+Currently working through Twiddler, needing to do more research on jQuery.
 
 Also learned mocha and chai testing.
 Mocha: https://mochajs.org/
