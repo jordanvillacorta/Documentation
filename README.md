@@ -33,3 +33,6 @@ Learning about jQuery and using resource from freeCodeCamp.
 
 Continually needing to research and access jQuery functions and methods, using this resource from jQuery.
 -- https://api.jquery.com/
+
+Was given the Font Awesome site that has great icons to use for Twiddler!
+-- https://fontawesome.com/v5.15/icons?d=gallery&p=2
