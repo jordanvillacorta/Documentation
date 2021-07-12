@@ -36,3 +36,6 @@ Continually needing to research and access jQuery functions and methods, using t
 
 Was given the Font Awesome site that has great icons to use for Twiddler!
 -- https://fontawesome.com/v5.15/icons?d=gallery&p=2
+
+Learned about childNodes when working on `getElementsByClassName`.
+-- https://developer.mozilla.org/en-US/docs/Web/API/Node/childNodes
