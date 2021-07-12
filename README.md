@@ -42,3 +42,6 @@ Learned about childNodes when working on `getElementsByClassName`.
 
 Learned how to check if an element has any child elements. 
 -- https://www.geeksforgeeks.org/how-to-check-if-an-element-has-any-children-in-javascript/
+
+I'm currently working on JSON.stringify() and I'm using MDN for my .toString() documentation.
+-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString
