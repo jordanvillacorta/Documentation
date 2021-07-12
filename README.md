@@ -39,3 +39,6 @@ Was given the Font Awesome site that has great icons to use for Twiddler!
 
 Learned about childNodes when working on `getElementsByClassName`.
 -- https://developer.mozilla.org/en-US/docs/Web/API/Node/childNodes
+
+Learned how to check if an element has any child elements. 
+-- https://www.geeksforgeeks.org/how-to-check-if-an-element-has-any-children-in-javascript/
