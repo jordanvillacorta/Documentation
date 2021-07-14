@@ -45,3 +45,6 @@ Learned how to check if an element has any child elements.
 
 I'm currently working on JSON.stringify() and I'm using MDN for my .toString() documentation.
 -- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString
+
+Steven Chung gave me a great resource for a recursive pattern to follow when implementing recursion!
+-- https://replit.com/@stevenchung213/ExoticAdorableBits#index.js
