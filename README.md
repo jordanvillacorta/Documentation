@@ -1,4 +1,4 @@
-Currently working through Twiddler, needing to do more research on jQuery.
+Finished working on Twiddler - I am currently working through the JS Advanced Concepts, and really need to nail down my understanding of Recursive Functions.
 
 Also learned mocha and chai testing.
 Mocha: https://mochajs.org/
