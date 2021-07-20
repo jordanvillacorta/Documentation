@@ -4,7 +4,7 @@ Also learned mocha and chai testing.
 Mocha: https://mochajs.org/
 Chai: https://www.chaijs.com/
 
-Working through Underbar Part 1, using underscore.js documentation for all tests. 
+Working through Underbar Part 1, needed to reference underscore.js documentation for the _.uniq method. 
 -- http://underscorejs.org/#uniq
 
 Now working through Underbar Part 2, using underscore.js documentation for all tests.
