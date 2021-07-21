@@ -1,4 +1,4 @@
-Finished working on Twiddler - I am currently working through the JS Advanced Concepts, and really need to nail down my understanding of Recursive Functions.
+Finished reading through JS Advanced Concepts, now going back through Twiddler to finish Extra Credit.
 
 Also learned mocha and chai testing.
 Mocha: https://mochajs.org/
