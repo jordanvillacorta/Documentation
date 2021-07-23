@@ -1,4 +1,4 @@
-Finished reading through JS Advanced Concepts, now going back through Twiddler to finish Extra Credit.
+Working on Twiddler, and I'm working on CSS and adding more jQuery per the Extra Credit tests.
 
 Also learned mocha and chai testing.
 Mocha: https://mochajs.org/
