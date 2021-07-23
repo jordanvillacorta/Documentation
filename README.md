@@ -51,3 +51,6 @@ Steven Chung, a TM, gave me a great resource for a recursive pattern to follow w
 
 Trying to understand how to append/prepend elements to the DOM/different elements. Helpful resource: 
 -- https://api.jquery.com/prependto/
+
+Learning how to get the value of text input field using jQuery:
+-- https://www.geeksforgeeks.org/how-to-get-the-value-of-text-input-field-using-javascript/
