@@ -1,4 +1,5 @@
 Working on Twiddler, and I'm working on CSS and adding more jQuery per the Extra Credit tests.
+Also working on Recursion, trying to wrap my mind around it and how it can be implemented with different prompts.
 
 Also learned mocha and chai testing.
 Mocha: https://mochajs.org/
