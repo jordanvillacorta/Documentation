@@ -55,3 +55,6 @@ Learning how to get the value of text input field using jQuery:
 
 Currently using this resource for the Recursion Prompt Power of Two: 
 -- https://www.reddit.com/r/javascript/comments/4cc1xf/power_of_two_recursive_function/
+
+This is a GREAT resource for how to use the 'new' operator:
+-- https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript
