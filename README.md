@@ -53,5 +53,5 @@ Trying to understand how to append/prepend elements to the DOM/different element
 Learning how to get the value of text input field using jQuery:
 -- https://www.geeksforgeeks.org/how-to-get-the-value-of-text-input-field-using-javascript/
 
-Currently using this resource for the Recursion Prompt Power of Two:
+Currently using this resource for the Recursion Prompt Power of Two: 
 -- https://www.reddit.com/r/javascript/comments/4cc1xf/power_of_two_recursive_function/
