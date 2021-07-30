@@ -58,3 +58,6 @@ Currently using this resource for the Recursion Prompt Power of Two:
 
 This is a GREAT resource for how to use the 'new' operator:
 -- https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript
+
+Steven Chung has a good resource for difference between .prototype and _proto_:
+-- https://javascript.plainenglish.io/proto-vs-prototype-in-js-140b9b9c8cd5
