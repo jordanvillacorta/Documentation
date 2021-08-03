@@ -61,3 +61,6 @@ This is a GREAT resource for how to use the 'new' operator:
 
 Steven Chung has a good resource for difference between .prototype and _proto_:
 -- https://javascript.plainenglish.io/proto-vs-prototype-in-js-140b9b9c8cd5
+
+Needed to read the difference between Chai `equal` and `eql` testing for Arrays and Objects.
+-- https://medium.com/building-ibotta/testing-arrays-and-objects-with-chai-js-4b372310fe6d
