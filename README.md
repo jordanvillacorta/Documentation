@@ -64,3 +64,6 @@ Steven Chung has a good resource for difference between .prototype and _proto_:
 
 Needed to read the difference between Chai `equal` and `eql` testing for Arrays and Objects.
 -- https://medium.com/building-ibotta/testing-arrays-and-objects-with-chai-js-4b372310fe6d
+
+Great resource for practice with Recursion:
+-- http://recursion-immersion.herokuapp.com/practice
