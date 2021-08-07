@@ -67,3 +67,6 @@ Needed to read the difference between Chai `equal` and `eql` testing for Arrays 
 
 Great resource for practice with Recursion:
 -- http://recursion-immersion.herokuapp.com/practice
+
+How to Implement a Binary Search Tree:
+-- https://initjs.org/implement-a-binary-search-tree-in-javascript-952a44ee7c26
