@@ -70,3 +70,6 @@ Great resource for practice with Recursion:
 
 How to Implement a Binary Search Tree:
 -- https://initjs.org/implement-a-binary-search-tree-in-javascript-952a44ee7c26
+
+Git Workflow slides from Anteo, very helpful:
+-- https://docs.google.com/presentation/d/14CrJTEZghFZALKMy_jnbEfvhOvKbUGN2yDujocx-eUw/edit#slide=id.ge0f869ed1e_0_161
